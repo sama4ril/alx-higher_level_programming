@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-Python programming
+0x05. Python - Exceptions
